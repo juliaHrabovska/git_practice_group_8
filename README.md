@@ -10,13 +10,12 @@ At the beginning you have to clone the repository to your local computer.  You c
 
 Or you can use Intellij Idea, File -> New -> Project from Version Control, past the https link (You can get it here) ![picture 1](https://github.com/juliaHrabovska/git_practice/blob/main/pictures/Picture%201.png "Where to find lint to the project")
 
-In the repository you will find 5 files. Each group should use an appropriate file (ex. group **1** uses test_file_**1**, group **2** - test_file_**2** and so on). 
-Each file is divided in two parts: test and text. 
+In the repository you will find a file. Each file is divided in two parts: test and text. 
 
 ## The first task 
 The first task is to choose correct answer. 
 How we will do that? 
-   - In each group we have 3-4 persons. Each person should choose the question (ex. the first person takes 1 question, second - 2 question and so on). 
+   - In each group we have 5 persons. Each person should choose the question (ex. the first person takes 1 question, second - 2 question and so on). 
    - After that each person should create a separate branch (lets call branches like "**group_[group number]\_task_1\_[your second name]**")
 
       ![picture 2](https://github.com/juliaHrabovska/git_practice/blob/main/pictures/Picture%203.png "Create new branch") 
